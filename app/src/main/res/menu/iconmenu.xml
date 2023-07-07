@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/myProfile"
+        android:title="My Profiles"
+        
+        />
+    <item android:id="@+id/recentDoctors"
+        android:title="Recent Doctors"
+
+        />
+    <item android:id="@+id/wallet"
+        android:title="Wallet"
+        />
+    <item android:id="@+id/logout"
+        android:title="Log Out "
+        />
+
+</menu>
